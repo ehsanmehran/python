@@ -1,2 +1,2 @@
 from os import system
-system("statrt notepade")
+system("start notepade")
