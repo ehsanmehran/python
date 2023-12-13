@@ -1,1 +1,2 @@
-print("hello ehsan")
+from os import system
+system("statrt notepade")
